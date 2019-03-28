@@ -1,3 +1,5 @@
+This is a school project to learn React. Photos are not redimensionned cause it was just an exercise.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
